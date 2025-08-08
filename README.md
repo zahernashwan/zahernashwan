@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/qE5MLmB.jpeg" alt="Professional Global Trade Banner" width="100%"/>
+  <img src="https://i.ibb.co/P9W1P6B/banner.jpg" alt="Professional Global Trade Banner" width="100%"/>
 </p>
 
 <div align="center">
@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/j22OPb5.png" alt="Separator" width="100%"/>
+  <img src="https://i.ibb.co/d2x1QG2/separator.png" alt="Separator" width="100%"/>
 </p>
 
 <table>
@@ -50,7 +50,7 @@
 </table>
 
 <p align="center">
-  <img src="https://i.imgur.com/j22OPb5.png" alt="Separator" width="100%"/>
+  <img src="https://i.ibb.co/d2x1QG2/separator.png" alt="Separator" width="100%"/>
 </p>
 
 <div align="center">
@@ -71,7 +71,7 @@
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/j22OPb5.png" alt="Separator" width="100%"/>
+  <img src="https://i.ibb.co/d2x1QG2/separator.png" alt="Separator" width="100%"/>
 </p>
 
 <div align="center">
@@ -96,7 +96,7 @@
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/j22OPb5.png" alt="Separator" width="100%"/>
+  <img src="https://i.ibb.co/d2x1QG2/separator.png" alt="Separator" width="100%"/>
 </p>
 
 <div align="center">
