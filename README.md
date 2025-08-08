@@ -54,20 +54,11 @@
 </p>
 
 <div align="center">
-  
   <h3>🌍 التواجد العالمي واللغات | Global Presence & Languages</h3>
-  <p>
-    <b>مواقع العمل:</b> 🇨🇳 الصين (إيوو) | 🇦🇪 الإمارات (دبي) | 🇾🇪 اليمن (صنعاء)
-  </p>
-  <p>
-    <b>اللغات:</b> العربية (اللغة الأم) | الإنجليزية (بطلاقة) | الصينية (بطلاقة)
-  </p>
-
+  <p><b>مواقع العمل:</b> 🇨🇳 الصين (إيوو) | 🇦🇪 الإمارات (دبي) | 🇾🇪 اليمن (صنعاء)</p>
+  <p><b>اللغات:</b> العربية (اللغة الأم) | الإنجليزية (بطلاقة) | الصينية (بطلاقة)</p>
   <h3>🚀 الطموحات | Ambitions</h3>
-  <p>
-    أتطلع دائمًا لتوسيع شبكة أعمالي الدولية، بناء شراكات استراتيجية، واستكشاف فرص استثمارية مبتكرة في الأسواق الناشئة والواعدة.
-  </p>
-
+  <p>أتطلع دائمًا لتوسيع شبكة أعمالي الدولية، بناء شراكات استراتيجية، واستكشاف فرص استثمارية مبتكرة في الأسواق الناشئة والواعدة.</p>
 </div>
 
 <p align="center">
@@ -75,24 +66,14 @@
 </p>
 
 <div align="center">
-
   <h3>📬 تواصل معي | Contact Me | 联系我</h3>
   <p>يسعدني التواصل معكم لمناقشة فرص العمل والشراكات المحتملة.</p>
   <p>
-    <a href="https://wa.me/8615151857123" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-    </a>
-    <a href="mailto:[ضع-بريدك-الإلكتروني-هنا]">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="[ضع-رابط-لينكدإن-هنا]" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
+    <a href="https://wa.me/8615151857123" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+    <a href="mailto:[ضع-بريدك-الإلكتروني-هنا]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="[ضع-رابط-لينكدإن-هنا]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   </p>
-  <h4>
-    <strong>+86 151 5185 7123</strong> | <strong>+967 777 612 613</strong>
-  </h4>
-
+  <h4><strong>+86 151 5185 7123</strong> | <strong>+967 777 612 613</strong></h4>
 </div>
 
 <p align="center">
